@@ -1,1 +1,0 @@
-Some sample text to be pushed to the repository.
